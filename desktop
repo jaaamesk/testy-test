@@ -6,7 +6,12 @@
 </style>
 
 <div class="wrap_md">
-
+  <div class="col-md">
+  
+  </div>
+  <div class="col-md">
+  
+  </div>
 </div>
 
 <script>
